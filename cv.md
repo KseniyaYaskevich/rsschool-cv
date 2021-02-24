@@ -30,6 +30,18 @@ a pleasant and friendly addition to your team.
 Netologic «Software support specialist»
           
 #### Example of code   
+```js
+export const shuffleArr = (arr) => {
+    var j, temp;
+	for(var i = arr.length - 1; i > 0; i--){
+		j = Math.floor(Math.random()*(i + 1));
+		temp = arr[j];
+		arr[j] = arr[i];
+		arr[i] = temp;
+	}
+    return arr[0];
+}
+```
 
 ### Languages
  -  English (B1)  
