@@ -115,8 +115,7 @@ h3 {
     margin: 20px 0;
 }
 
-h4 {
-    text-transform: uppercase;
+h3 {
     white-space: nowrap;
     color: rgb(141, 131, 111);
 }
