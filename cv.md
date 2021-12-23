@@ -1,18 +1,16 @@
-====
-
 # **Yaskevich Kseniya Leonidovna**
 ## **Junior Front-end Developer**
 * *Location: Minsk, Belarus*
 * *Age: 29*
 
-====
+---
 
 ### **Contact:**
 * Phone: +375 29 540 75 00
 * E-mail: yaskevi4kseniya@gmail.com
 * Github: https://github.com/KseniyaYaskevich
 
-====
+---
 
 ### **Skills:**
 * Figma
@@ -20,12 +18,12 @@
 * CSS/SASS
 * JavaScript (Basic)
 
-====
+---
 
 ### **Language:**
 * English (B1-B2)
 
-====
+---
 
 ### **About me:**
 
@@ -34,7 +32,7 @@ I am keen to gain more experience in the field.
 For this reason, I am looking for a company willing to offer me a placement among their developers. 
 In return, I would offer my full commitment, and be a pleasant and friendly addition to your team.
 
-====
+---
 
 ### **Edication:**
 
@@ -42,7 +40,13 @@ In return, I would offer my full commitment, and be a pleasant and friendly addi
 
 *BSUIR (2019 - 2020)* «Information systems software» with the qualification of «Software engineer»
 
-====
+---
+
+### **Work Experience:**
+
+*Netologic (01.03.2013 - 31.07.2019)* Software support specialist
+
+---
 
 ### **Code example:**
 ```
@@ -66,4 +70,4 @@ filterTab.forEach((button, index) => {
   });
 ```
 
-====
+---
